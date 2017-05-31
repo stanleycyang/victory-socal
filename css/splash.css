@@ -1,0 +1,33 @@
+@font-face {
+  font-family: ChantillySerialBold;
+  src: url('../fonts/Chantilly-Serial-Bold.ttf');
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  font-family: ChantillySerialBold, sans-serif !important;
+}
+
+.brand-color {
+  color: #00458d;
+}
+
+.brand-background {
+  background-color: #00458d;
+}
+
+.pad {
+  padding: 3rem;
+}
+
+.full-page {
+  height: 100vh;
+  width: 100%;
+}
+
+.v-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
