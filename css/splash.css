@@ -17,8 +17,16 @@ html, body {
   background-color: #00458d;
 }
 
+.brand-border {
+  border: 1px solid #00458d;
+}
+
 .pad {
   padding: 3rem;
+}
+
+.pad-top-lg {
+  padding-top: 4rem;
 }
 
 .full-page {
@@ -31,3 +39,4 @@ html, body {
   align-items: center;
   justify-content: center;
 }
+
